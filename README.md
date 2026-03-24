@@ -23,8 +23,7 @@ Rounded images and cards are commonly used to sell a more friendly appeal to the
 Because of the lack of eye catching design on these sites, designers don't have much free room to create eye catching or highly stylized elements into their sites. They seek to add more personality to these sites by having textured backgrounds, numbered sections, microinteractions, or moving animations!
 
 # Turning Research Into A Design.
-So the goal of this project is to create a project with the following requirements.
-
+So the goal of this project is to create a website for a mock digital creative agency with the following leading my design/layout choices.
 - Leverage white space to create a clear and concise design.
 - Implement rounded cards/images when applicable.
 - Implement iconography where necessary.
